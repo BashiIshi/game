@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u30D7\u30ED\u30B0\u30E9\u30E0\u8A00\u8A9E\\DxLib2DGame\\20240422\u30B2\u30FC\u30E0\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C08E-CE71-49FA-A300-031C6FF5CFC8}|Project1.vcxproj|D:\\\u30D7\u30ED\u30B0\u30E9\u30E0\u8A00\u8A9E\\DxLib2DGame\\20240422\u30B2\u30FC\u30E0\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\Project1\\20240513.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0821C08E-CE71-49FA-A300-031C6FF5CFC8}|Project1.vcxproj|solutionrelative:20240513.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0821C08E-CE71-49FA-A300-031C6FF5CFC8}|Project1.vcxproj|D:\\\u30D7\u30ED\u30B0\u30E9\u30E0\u8A00\u8A9E\\DxLib2DGame\\20240422\u30B2\u30FC\u30E0\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0821C08E-CE71-49FA-A300-031C6FF5CFC8}|Project1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\u30D7\u30ED\u30B0\u30E9\u30E0\u8A00\u8A9E\\DxLib2DGame\\20240422\u30B2\u30FC\u30E0\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\\u30D7\u30ED\u30B0\u30E9\u30E0\u8A00\u8A9E\\DxLib2DGame\\20240422\u30B2\u30FC\u30E0\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\Project1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T07:52:34.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240513.cpp",
+              "DocumentMoniker": "D:\\\u30D7\u30ED\u30B0\u30E9\u30E0\u8A00\u8A9E\\DxLib2DGame\\20240422\u30B2\u30FC\u30E0\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\Project1\\20240513.cpp",
+              "RelativeDocumentMoniker": "20240513.cpp",
+              "ToolTip": "D:\\\u30D7\u30ED\u30B0\u30E9\u30E0\u8A00\u8A9E\\DxLib2DGame\\20240422\u30B2\u30FC\u30E0\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\\Project1\\20240513.cpp",
+              "RelativeToolTip": "20240513.cpp",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T07:57:28.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
